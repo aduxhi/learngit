@@ -5,3 +5,4 @@ Git tracks changes of files.
 
 
 This is the first test!
+This is the second test!
